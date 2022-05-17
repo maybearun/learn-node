@@ -1,3 +1,3 @@
 this is file 1.
 this is file 2.
- this is the result of async file write is
+ this is the result of async file write this is built in async await dude and its awesomethis is built in async await dude and its awesomethis is , async await dude and its awesomethis is . async await dude and its awesomethis is .promises async await dude and its awesome
